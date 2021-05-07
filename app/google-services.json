@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "814392436839",
+    "firebase_url": "https://jihc-it-guide-default-rtdb.firebaseio.com",
+    "project_id": "jihc-it-guide",
+    "storage_bucket": "jihc-it-guide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814392436839:android:6b07274f347638cdb38cc2",
+        "android_client_info": {
+          "package_name": "com.example.rent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814392436839-1srlnkrjbves5s93nkrdeg0vpu7fretp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJZ5hignzC-tbXpEpTw-CynboKf8xv53o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814392436839-1srlnkrjbves5s93nkrdeg0vpu7fretp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814392436839:android:dcbc2b4c40ac7f19b38cc2",
+        "android_client_info": {
+          "package_name": "com.example.rent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814392436839-1srlnkrjbves5s93nkrdeg0vpu7fretp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJZ5hignzC-tbXpEpTw-CynboKf8xv53o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814392436839-1srlnkrjbves5s93nkrdeg0vpu7fretp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814392436839:android:5d3442949e205292b38cc2",
+        "android_client_info": {
+          "package_name": "com.example.winterhackaton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814392436839-1srlnkrjbves5s93nkrdeg0vpu7fretp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJZ5hignzC-tbXpEpTw-CynboKf8xv53o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814392436839-1srlnkrjbves5s93nkrdeg0vpu7fretp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

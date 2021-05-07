@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Rent</string>
+    <string name="topic">Ойын-сауық</string>
+    <string-array name="spinner_list1">
+        <item></item>
+        <item>Футбол алаңы</item>
+        <item>Спортзал</item>
+        <item>Тапшан(Алдыңғы)</item>
+        <item>Тапшан(Артқы)</item>
+        <item>Тапшан(Мангал)</item>
+        <item>Акт залы</item>
+    </string-array>
+    <string-array name="spinner_list2">
+        <item></item>
+        <item>Футбол</item>
+        <item>Волейбол</item>
+        <item>Кино</item>
+        <item>Моралька</item>
+        <item>Шашлык</item>
+        <item>Отырыс</item>
+    </string-array>
+</resources>
